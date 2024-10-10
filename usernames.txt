@@ -1,0 +1,10 @@
+root
+admin
+user
+ubuntu
+test
+guest
+student
+developer
+service
+backup
